@@ -5,8 +5,9 @@ Code Block Test
 ---------------
 
 The following lines are for code
+
 .. code-block:: console
-$ pip install this-pkg
+  $ pip install this-pkg
 
 For example:
 
