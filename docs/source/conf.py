@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'ece-5831'
+copyright = '2022, Jaerock Kwon'
+author = 'Jaerock Kwon'
 
 release = '0.1'
 version = '0.1.0'
