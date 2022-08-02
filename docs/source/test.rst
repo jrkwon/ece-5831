@@ -12,8 +12,8 @@ The following lines are for code
 
 For example:
 
->> import this
->> this is that
+>>> import this
+>>> this is that
 
 This is a test.
 
